@@ -1,4 +1,4 @@
-# random-quote-generator
+
 # Random Quote Generator
 
 A simple web application that generates random quotes and displays them to the user.
